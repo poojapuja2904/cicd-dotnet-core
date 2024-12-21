@@ -1,0 +1,241 @@
+﻿
+
+/*label {
+    font-size: 16px;
+}
+
+div{
+    background-color:aliceblue;
+}*/
+
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/*body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input, textarea {
+    font-size: 18px;
+    width: 200px;
+}
+
+label {
+    font-size: 16px;
+}
+.main{
+    background-color:white;
+}
+#buyItem {
+    background-color: green;
+    color: azure;
+}
+ul.productInfo {
+    font-size: small;
+}
+
+    ul.productInfo li {
+        list-style-type: none;
+    }
+
+
+
+.productInfo {
+    border: 1px solid grey;
+    display: inline-table;
+    padding: 3px 5px 3px 5px;
+    margin: 8px;
+    width: 450px;
+    background-color: cornflowerblue;
+    border-radius: 3px 2px;
+}
+
+
+    .productInfo img {
+        margin: 3px;
+        float: inline-start;
+        border: 5px solid black;
+        max-width: 150px;
+    }
+.theForm {
+    background-color: dodgerblue;
+    border: 7px solid orange;
+    display: inline-block;
+    padding: 5px 2px 5px 2px;
+    margin: 2px;
+    width: 450px;
+    background-color: cornflowerblue;
+    border-radius: 3px 2px;
+}
+
+.theForm input[type=submit]{
+    background-color:green;
+    color:azure;
+    
+}
+
+#loginToggle{
+    cursor:pointer;
+}
+
+.login {
+    padding: 5px;
+    border: 2px ;
+    display: inline-flex;
+}
+
+.login input {
+    width:200px;
+}
+
+.login label {
+    width:500px;
+    display:inline-block;
+}
+#loginToggle h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+    
+}
+    
+    menu li {
+        display: inline;
+    }
+
+    menu li::after {
+        content: ' |';
+    }
+
+    menu li:last-of-type::after {
+        content: '';
+    }
+
+ul.details li {
+    font-size: inherit;
+    list-style-type: none;
+    font-style: oblique;
+}
+
+#loginToggle {
+    cursor: pointer;
+}
+
+.popup-form {
+    padding: 20px;
+    border: 2px blue outset;
+}
+
+    .popup-form input {
+        width: 200px;
+    }
+
+    .popup-form label {
+        width: 150px;
+        display: inline;
+    }
+
+    .popup-form input[type=checkbox], .popup-form input[type=submit] {
+        width: auto;
+    }
+
+.product-info {
+    border: 1px solid grey;
+    display: inline-block;
+    padding: 5px 3px;
+    margin: 2px;
+    width: 350px;
+    background-color: lavender;
+    border-radius: 5px;
+}
+
+    .product-info img {
+        margin: 5px;
+        float: left;
+        border: 1px solid blue;
+        max-width: 150px;
+    }
+
+
+
+.size {
+    height: min-content;
+    width: min-content;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}*/
+
+/* Provide sufficient contrast against white background */
+/*a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {*/
+    /* Margin bottom by footer height */
+    /*margin-bottom: 60px;
+}
+
+form {
+    background-color: azure;
+
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;*/ /* Vertically center the text there */
+/*}*/
+

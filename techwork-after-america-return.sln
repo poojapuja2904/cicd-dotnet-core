@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "techwork-after-america-return", "techwork-after-america-return.csproj", "{1536C4B4-A0E6-4659-B610-263E3FE7C3EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D17F0CC-E4B2-4F51-A1DB-95DDE847E574}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1536C4B4-A0E6-4659-B610-263E3FE7C3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1536C4B4-A0E6-4659-B610-263E3FE7C3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1536C4B4-A0E6-4659-B610-263E3FE7C3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1536C4B4-A0E6-4659-B610-263E3FE7C3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E14BEE-81E1-4875-A2C1-0690F8561CA5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+{
+  "Colors": {
+    "Favorite": "Blue"
+  },
+
+
+  "ConnectionStrings": {
+    "TechworkContextDb": " Data Source=localhost;Initial Catalog=TechworkDb;Integrated Security=True;Connect Timeout=30"
+  },
+
+
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "warning"
+    }
+  }
+   
+
+}
+ //(localdb)\\MSSQLLocalDB
+
+  /*"ConnectionStrings": {
+    "TechworkContextDb": "Data Source=(localdb)\\ProjectsV13; Inital Catalog=TechworkContextDb;
+    Intigrated Security=True;Connect Timeout=40;Multiple Active ResultSets=true
+      Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite; MultiSubnetFailover=False"*/
+
+
